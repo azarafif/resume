@@ -3,7 +3,7 @@ pagetitle: "Resume - AzarAfif"
 author: "Azar Aligholi Zadeh Afif"
 ---
 
-# Azar Afif 
+# Azar Aligholi Zadeh Afif (Azar Afif)
 # UX Designer
 
 ## Contact
