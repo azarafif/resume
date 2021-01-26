@@ -9,7 +9,6 @@ author: "Azar Aligholi Zadeh Afif"
 ## Contact
 
 Belmont, CA\
-Phone: 415-712-3775\
 Email: azar.afif@gmail.com\
 Portfolio: www.azarafif.com \
 Dribbble: https://dribbble.com/azarafif
